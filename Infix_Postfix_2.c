@@ -1,6 +1,6 @@
 #include<stdio.h>
 #define max 100
-
+#define MAX 100
 typedef struct {
     int top;
     char items[MAX];
